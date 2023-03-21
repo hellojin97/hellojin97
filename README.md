@@ -6,7 +6,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rounded&color=FFFFFF&height=150&section=header&text=Hello%20Jin🧐&fontSize=90" />
 <br><br>
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhellojin97%2Fhit-counter&count_bg=%23C83D7D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Hello%2C+World+%F0%9F%9A%80&edge_flat=false"/></a>
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhellojin97%2Fhit-counter&count_bg=%23C83D7D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Hello%2C+World+%F0%9F%9A%80&edge_flat=false"/></a>****
 
 <br><br>
 SNS📱<br><br>
@@ -37,7 +37,7 @@ SNS📱<br><br>
 <br><br>
 <br><br>
 ![Helljoin97's GitHub stats](https://github-readme-stats.vercel.app/api?username=hellojin97&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)&nbsp;&nbsp;
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hellojin97&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 </div>
 <br><br>
 
