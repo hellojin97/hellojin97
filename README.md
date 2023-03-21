@@ -1,6 +1,7 @@
-<img src="https://capsule-render.vercel.app/api?type=rounded&color=auto&height=200&section=header&text=capsule%20render&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=auto&height=200&section=header&text=Hello%20Jin🧐&fontSize=90" />
+
 <div align="center">
-![header](https://capsule-render.vercel.app/api?text=Hello%World!&fontSize=40&desc=Desc&descSize=30)
+
 SNS<br><br>
 <img src="https://img.shields.io/badge/ilhj1228@gmail.com-red?style=for-the-badge&logo=Gmail&logoColor=white"/>&nbsp;
 <a href="https://hellojin-haru.tistory.com">
