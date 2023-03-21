@@ -4,7 +4,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rounded&color=auto&height=150&section=header&text=Hello%20Jin🧐&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=FFFFFF&height=150&section=header&text=Hello%20Jin🧐&fontSize=90" />
 <br><br>
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23C83D4D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=%EC%96%B4%EC%84%9C%EC%98%A4%EC%84%B8%EC%9A%94+%F0%9F%9A%80&edge_flat=true"/></a>
 
